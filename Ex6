@@ -1,0 +1,5 @@
+import javax.swing.JOptionPane;
+public class lab {
+    public static void main(String[] args) {
+        String name = JOptionPane.showInputDialog("Hello Name  : "); System.out.println(name);
+    } }
